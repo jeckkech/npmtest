@@ -1,0 +1,12 @@
+{
+  "name": "@finans_test_2/test2.component",
+  "version": "1.0.4",
+  "main": "index.js",
+  "typings": "js/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "finans_dk",
+  "license": "ISC",
+  "description": ""
+}
